@@ -21,7 +21,7 @@ Ajudei na criação do front-end com vue 3 e backend com codeigniter 4.Além dis
 - **Avaliações e Reputação**: Sistema de feedback e notas de produtos e produtores e artesãos locais.
 - **Impressão e Relatórios**: Geração e pré-visualização de relatórios e comprovantes para pedidos.
 
-###  Experiência de Venda, PDV e Gestão (Admin & Operador)
+### Experiência de Venda, PDV e Gestão (Admin & Operador)
 
 - **PDV Físico Integrado (Casa Enxaimel)**: Ponto de venda presencial para comercialização direta dos produtos no ponto turístico cultural, com fechamento ágil de vendas e baixa automática de estoque.
 - **Painel e Dashboard Gerencial**: Visão consolidada de métricas, faturamento, produtos mais vendidos e fluxo comercial em tempo real.
@@ -32,7 +32,6 @@ Ajudei na criação do front-end com vue 3 e backend com codeigniter 4.Além dis
   - **Contas a Pagar**: Gestão de repasses para produtores e despesas operacionais.
 - **Cadastro e Gestão de Vendedores**: Cadastro completo de artesãos e produtores rurais locais com catálogo e dados de repasse.
 - **Relatórios Gerenciais e de Vendas**: Emissão e impressão de relatórios de desempenho, histórico financeiro e romaneios de pedidos.
-
 
 ### Aplicativo Mobile (React Native)
 
@@ -54,6 +53,20 @@ Ajudei na criação do front-end com vue 3 e backend com codeigniter 4.Além dis
 - **Experiência PWA (Progressive Web App)**: Service Workers e manifesto web para acesso rápido e instalação no navegador.
 - **Pipeline de Testes Automatizados**: Suíte de testes unitários e de integração com **Vitest** (frontend) e **PHPUnit** (backend).
 - **Interface Moderna e Responsiva**: Design system com Tailwind CSS e alta performance de compilação via Vite.
+
+## Previews do Marketplatz
+
+### Dashboard Admin
+
+![alt text](./assets/painel_admin.png)
+
+### Market Place (Web)
+
+![alt text](./assets/home.png)
+
+### Sistema PDV
+
+![alt text](./assets/pdv.png)
 
 ## Arquitetura do marketplatz
 
